@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מצא את כל השיטות החדשניות לקבלת Star Drops ו-Chaos Drop במשחק Brawl Stars. הצטרף לקהילה הגדולה ביותר של שחקנים ישראלים וקדם את עצמך במשחק עכשיו!
+
+### שיטות
+https://example.com/methods
+גלה את כל השיטות המתקדמות והעדכניות ביותר להשגת Star Drops ו-Chaos Drop. מדריכים מפורטים שיעזרו לך למקסם את הפרסים שלך ב-Brawl Stars כבר היום!
+
+### אודות
+https://example.com/about
+אנחנו קהילת שחקני Brawl Stars הנלהבת ביותר בישראל. למד מי אנחנו, מה המשימה שלנו ולמה אלפי שחקנים בוחרים ב-Brawl GG כמקור המידע האמין שלהם לגבי now gg brawlstars!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על Star Drops או Chaos Drop? רוצה לשתף שיטה חדשה? צור קשר עם צוות Brawl GG ונעזור לך להפוך לשחקן מקצועי יותר ב-brawl stars now gg עכשיו!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Brawl GG
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Brawl GG
+
+### Category
+https://example.com/category/:slug
+מוצרים - Brawl GG
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
